@@ -1,5 +1,5 @@
 from PyQt5.QtWidgets import QWidget, QApplication, QMessageBox, QInputDialog, QLineEdit
-from signup_ui import SignUp
+from signupwindow import SignUp
 from mainwindow import Main
 from adminwindow import Admin
 import sys,sqlite3
